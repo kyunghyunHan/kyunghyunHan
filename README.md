@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunghyunHan&layout=compact)](https://github.com/kyunghyunHan/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyunghyunHan)](https://github.com/kyunghyunHan/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyunghyunHan)](https://github.com/anuraghazra/github-readme-stats)
 
