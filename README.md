@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunghyunHan&layout=compact)](https://github.com/kyunghyunHan/github-readme-stats)
 
-<a href="[https://simpleicons.org/?q=java]" target="_blank"><img src="https://img.shields.io/badge/[Javasctipt]-[#F7DF1E]?style=flat-square&logo=[Javasctipt]&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
