@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 
 
 
-
+<img src="https://img.shields.io/badge/HTML5-f16524?style=flat-square&logo=HTML5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS3-28a4d8?style=flat-square&logo=CSS3&logoColor=white"/>
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/kyunghyunHan/TODO-List)
 <img src="https://img.shields.io/badge/React-7ddfff?style=flat-square&logo=React&logoColor=black"/>
 
