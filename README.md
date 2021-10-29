@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/kyunghyunHan/TODO-List)
-<img src="https://img.shields.io/badge/React-7ddfff?style=flat-square&logo=React&logoColor=black"/>&nbsp
+<img src="https://img.shields.io/badge/React-7ddfff?style=flat-square&logo=React&logoColor=black"/>
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/kyunghyunHan/Spring_Weather)  [![MS SQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=mssql&logoColor=white)](https://github.com/kyunghyunHan/Spring_Weather) [![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)](https://github.com/kyunghyunHan/SpringMVC)
 <br><br><br>
