@@ -28,7 +28,8 @@
 <img src="https://img.shields.io/badge/React-7ddfff?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Redux-7649bb?style=flat-square&logo=Redux&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/>
-
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 <br><br><br>
 
 
