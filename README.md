@@ -6,7 +6,7 @@
 
 ### 🥕 I am learning 
 - JavaScript
-- Goleng
+- Go leng
 - BlockChain
 - React and React Native + Expo 
 
