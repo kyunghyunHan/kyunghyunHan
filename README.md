@@ -30,7 +30,6 @@
 <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-7649bb?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
 <br><br><br>
-d
 
 #### 📧 Email : ekfqlwcjswl@gmail.com
 
