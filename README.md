@@ -39,6 +39,13 @@
 <img src="https://img.shields.io/badge/Go-7649bb?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
 <br><br><br>
 
+
+
+![Snake animation](https://github.com/joaovitormo/joaovitormo/blob/assets/github-contribution-grid-snake.svg)
+
+
+
+
 #### 📧 Email : ekfqlwcjswl@gmail.com
 
 
