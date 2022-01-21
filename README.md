@@ -20,7 +20,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkyunghyunHan&count_bg=%238B08C0&title_bg=%23C20000&icon=node-dot-js.svg&icon_color=%23403535&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-[![commitcombo](http://commitcombo.com/theme?user=kyunghyunHan&theme=DeepOcean&v=1)](https://github.com/devxb/CommitCombo)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kyunghyunHan&show_icons=true&theme=radical)
