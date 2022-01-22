@@ -5,8 +5,6 @@
 
 
 
-  q
-
 
 
 ### 🥕 I am learning 
