@@ -39,8 +39,8 @@
 
 
 <p align="left">
-  <a href="https://github.com/ararararararara/CommitCombo">
-    <img src="http://commitcombo.com/theme?user=ararararararara"/>
+  <a href="https://github.com/kyunghyunHan/CommitCombo">
+    <img src="http://commitcombo.com/theme?user=kyunghyunHan"/>
   </a>
 </p>
 
