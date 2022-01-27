@@ -38,7 +38,14 @@
 
 
 
-![Snake animation](https://github.com/joaovitormo/joaovitormo/blob/assets/github-contribution-grid-snake.svg)
+<p align="left">
+  <a href="https://github.com/ararararararara/CommitCombo">
+    <img src="http://commitcombo.com/theme?user=ararararararara"/>
+  </a>
+</p>
+
+
+
 
 
 
