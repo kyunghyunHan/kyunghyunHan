@@ -7,9 +7,9 @@
 <img src="https://img.shields.io/badge/Redux-7649bb?style=flat-square&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-7649bb?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
- - BlockChain
- - Node.js 
- - deno.js
+- BlockChain
+- Node.js 
+- deno.js
 - solidity
 <br><br><br>
 
