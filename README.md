@@ -23,17 +23,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunghyunHan&layout=compact)](https://github.com/kyunghyunHan/github-readme-stats)
 
-
-<p align="left">
-  <a href="https://github.com/kyunghyunHan/CommitCombo">
-    <img src="http://commitcombo.com/theme?user=kyunghyunHan"/>
-  </a>
-</p>
-
-#### 📧 Email : ekfqlwcjswl@gmail.com     
+#### 📧 Email : ekfqlwcjswl@gmail.com    
   
  
  
  
-#### portfolio [ https://kyunghyunhan.github.io/#/]( https://kyunghyunhan.github.io/#/)
+#### ❤️‍🔥portfolio [ https://kyunghyunhan.github.io/#/]( https://kyunghyunhan.github.io/#/)
    
