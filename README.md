@@ -10,7 +10,7 @@
 
 - BlockChain
 - Node.js 
-- deno.js
+- Rust
 - solidity
 
 
