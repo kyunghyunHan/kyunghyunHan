@@ -26,7 +26,7 @@
 
 #### 📧 Email : ekfqlwcjswl@gmail.com    
    
- 
+ #### Blog : [https://mesajang.tistory.com](https://mesajang.tistory.com)
  
  
 #### ❤️‍🔥portfolio [ https://kyunghyunhan.github.io/#/]( https://kyunghyunhan.github.io/#/)
