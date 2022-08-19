@@ -9,10 +9,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br/>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kyunghyunHan&show_icons=true&theme=radical). 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunghyunHan&layout=compact&hide=Makefile,css,html)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Github stats](https://github-readme-stats.vercel.app/api?username=kyunghyunHan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/kyunghyunHan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunghyunHan&layout=compact&theme=algolia)](https://github.com/kyunghyunHan/github-readme-stats)
 #### 📧 Email : ekfqlwcjswl@gmail.com    
    
  #### Blog : [https://mesajang.tistory.com](https://mesajang.tistory.com)
