@@ -9,9 +9,8 @@
 <img src="https://img.shields.io/badge/Rust-7649bb?style=flat-square&logo=Rust&logoColor=white"/></a>&nbsp 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kyunghyunHan&show_icons=true&theme=radical). 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunghyunHan&layout=compact)](https://github.com/kyunghyunHan/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunghyunHan)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 📧 Email : ekfqlwcjswl@gmail.com    
    
