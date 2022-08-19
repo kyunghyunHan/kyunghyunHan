@@ -1,11 +1,3 @@
-### 🥕 I am learning 
-
-<img src="https://img.shields.io/badge/Solidity-f16524?style=flat-square&logo=Solidity&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-f7e018?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next-7ddfff?style=flat-square&logo=Next&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-7ddfff?style=flat-square&logo=React&logoColor=black"/>
-<img src="https://img.shields.io/badge/Go-7649bb?style=flat-square&logo=Go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-7649bb?style=flat-square&logo=Rust&logoColor=white"/></a>&nbsp   
 
 ###  🛠 &nbsp;Technical Skills. 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;\
