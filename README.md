@@ -5,8 +5,9 @@
 <img src="https://img.shields.io/badge/Next-7ddfff?style=flat-square&logo=Next&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-7ddfff?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Go-7649bb?style=flat-square&logo=Go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-7649bb?style=flat-square&logo=Rust&logoColor=white"/></a>&nbsp 
-### 🛠 &nbsp;Technical Skills
+<img src="https://img.shields.io/badge/Rust-7649bb?style=flat-square&logo=Rust&logoColor=white"/></a>&nbsp   
+
+###  🛠 &nbsp;Technical Skills. 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;\
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;\
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity&logoColor=563D7C)&nbsp;
