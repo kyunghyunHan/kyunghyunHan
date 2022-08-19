@@ -11,7 +11,7 @@
 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=kyunghyunHan&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true")](https://github.com/kyunghyunHan/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunghyunHan&layout=compact&theme=synthwave&hide=javascript,html,makefile)](https://github.com/kyunghyunHan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunghyunHan&layout=compact&theme=synthwave&hide=css,html,makefile)](https://github.com/kyunghyunHan/github-readme-stats)
 #### 📧 Email : ekfqlwcjswl@gmail.com    
    
  #### Blog : [https://mesajang.tistory.com](https://mesajang.tistory.com)
