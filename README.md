@@ -20,5 +20,5 @@
 #### ❤️‍🔥portfolio [ https://kyunghyunhan.github.io/#/]( https://kyunghyunhan.github.io/#/)
 
 #### 😀SnS [InstarGream]( https://www.instagram.com/hyun2994/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunghyunHan&hide=css,html,makefile)](https://github.com/kyunghyunHan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunghyunHan&hide=css,html,makefile&layout=compact)](https://github.com/kyunghyunHan/github-readme-stats)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=kyunghyunHan" height="165">
