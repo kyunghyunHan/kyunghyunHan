@@ -12,13 +12,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={hkh3045})](https://solved.ac/{hkh3045})
 
-#### 📧 Email : ekfqlwcjswl@gmail.com    
-   
- #### Blog : [https://mesajang.tistory.com](https://mesajang.tistory.com)
- 
- 
+#### 📧 Email : ekfqlwcjswl@gmail.com       
+#### Blog : [https://mesajang.tistory.com](https://mesajang.tistory.com)
 #### ❤️‍🔥portfolio [ https://kyunghyunhan.github.io/#/]( https://kyunghyunhan.github.io/#/)
-
+#### [LinkedIn](https://www.linkedin.com/in/kyunghyun-han-8b0956244/)
 #### 😀SnS [InstarGream]( https://www.instagram.com/hyun2994/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunghyunHan&theme=radical&hide=css,html,makefile&layout=compact)](https://github.com/kyunghyunHan/github-readme-stats)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=kyunghyunHan" height="165">
