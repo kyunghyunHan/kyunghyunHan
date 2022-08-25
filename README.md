@@ -9,8 +9,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br/>
   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={hkh3045})](https://solved.ac/{hkh3045})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hkh3045)](https://solved.ac/hkh3045)
 
 #### 📧 Email : ekfqlwcjswl@gmail.com       
 #### Blog : [https://mesajang.tistory.com](https://mesajang.tistory.com)
