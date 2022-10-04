@@ -1,8 +1,9 @@
 # HAN KYUNG HYUN 😉
 ###  🛠 &nbsp;Technical Skills. 
-###  🛠 &nbsp;Blockchain. 
+###  🛠 &nbsp;BlockChain. 
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;\
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity&logoColor=563D7C)&nbsp;\
+###  🛠 &nbsp;Backend & frontend. 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=React.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;\
