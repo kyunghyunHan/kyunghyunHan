@@ -16,7 +16,7 @@ Frontend:![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&lo
 
 #### 📧 Email : ekfqlwcjswl@gmail.com       
 #### Blog : [https://mesajang.tistory.com](https://mesajang.tistory.com)
-#### ❤️‍🔥portfolio [ https://kyunghyunhan.github.io/#/]( https://kyunghyunhan.github.io/#/)
+#### ❤️‍🔥portfolio [ https://kyunghyunhan.github.io/#/]( https://kyunghyunhan.github.io/)
 #### [LinkedIn](https://www.linkedin.com/in/kyunghyun-han-8b0956244/)
 #### 😀SnS [InstarGream]( https://www.instagram.com/hyun2994/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunghyunHan&theme=radical&hide=css,html,makefile,java&layout=compact)](https://github.com/kyunghyunHan/github-readme-stats)
