@@ -18,5 +18,5 @@ Frontend:![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&lo
 #### Blog : [https://kyunghyunhan.github.io/](https://kyunghyunhan.github.io/)
 #### [LinkedIn](https://www.linkedin.com/in/kyunghyun-han-8b0956244/)
 #### 😀SnS [InstarGream]( https://www.instagram.com/hyun2994/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunghyunHan&theme=radical&langs_count=10&hide=css,html,makefile,java&layout=compact)](https://github.com/kyunghyunHan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunghyunHan&theme=radical&langs_count=8&hide=css,html,makefile,java&layout=compact)](https://github.com/kyunghyunHan/github-readme-stats)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=kyunghyunHan" height="165">
