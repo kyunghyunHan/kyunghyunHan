@@ -24,4 +24,3 @@ Frontend:![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&lo
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=kyunghyunHan" height="165">
         
   
-<a href="https://opgc.me/#/users/kyunghyunHan" target="_blank"><img src="https://api.opgc.me/githubs/users/kyunghyunHan/tag/?theme=basic" /></a>
