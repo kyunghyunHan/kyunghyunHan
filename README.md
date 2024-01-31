@@ -6,5 +6,5 @@
 #### 📧 Email : ekfqlwcjswl@gmail.com       
 #### Blog : [Medium](https://medium.com/@ekfqlwcjswl), [Github.io](https://mesajang.tistory.com/)
 #### [LinkedIn](https://www.linkedin.com/in/kyunghyun-han-8b0956244/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunghyunHan&theme=radical&langs_count=8&hide=css,html,makefile,ipynb,starlark,java,Objective-C,Ruby,LLVM&layout=compact)](https://github.com/kyunghyunHan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunghyunHan&theme=radical&langs_count=8&hide=css,html,makefile,JupyterNoteBook,starlark,java,Objective-C,Ruby,LLVM&layout=compact)](https://github.com/kyunghyunHan/github-readme-stats)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=kyunghyunHan" height="165">
