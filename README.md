@@ -2,7 +2,7 @@
 
 👾 I'm **Hyun**.
 
-🦀 Rust.
+🦀 I like developing in Rust.
 
 🐁 I like it
 
