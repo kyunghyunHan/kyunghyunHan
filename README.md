@@ -9,11 +9,7 @@
 <br>
 <br>
 <br>
-<br>
 
-#### 📧 Email : ekfqlwcjswl@gmail.com       
-#### Blog : [Medium](https://medium.com/@ekfqlwcjswl)
-#### [LinkedIn](https://www.linkedin.com/in/kyunghyun-han-8b0956244/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunghyunHan&theme=radical&langs_count=8&hide=css,html,makefile,jupyter%20notebook,starlark,java,Objective-C,Ruby,LLVM&layout=compact)](https://github.com/kyunghyunHan/github-readme-stats)  
 
 
