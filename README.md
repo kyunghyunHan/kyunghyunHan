@@ -1,7 +1,6 @@
 ### Hey!  
 
 👾 I'm **Hyun**.
-
 🦀 I like developing in Rust.
 
 🐁 I like it
