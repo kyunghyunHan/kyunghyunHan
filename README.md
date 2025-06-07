@@ -4,7 +4,7 @@
 
 🦀 I like developing in Rust.
 
-🐁 I like it
+🐁 I like it. 
 
 <br>
 <br>
