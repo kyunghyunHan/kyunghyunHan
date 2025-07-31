@@ -6,7 +6,7 @@
 
 🦀 I like developing in Rust.
 
-🐁 I like it. 
+🐁 I am currently in Melbourne.
 
 <br>
 <br>
