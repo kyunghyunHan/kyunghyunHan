@@ -32,5 +32,5 @@ Algoithtm 🌐
 | -------- | ------ | ------ |
 | • [deep_quokka]() - A deepleaning | • [BlockChain](https://github.com/kyunghyunHan/blockchain) - Blockchain with Go | NftMarketPlace |
 | • [perth]() - A Perth Korean community site created using leptos. | • | • |
-| • | • | • |
+| • [korea_investment_rs ]() - korea_investment_rs is a Rust library that allows easy use of Korea Investment & Securities' Open Trading API. | • | • |
 | • | • | • |
