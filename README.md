@@ -37,3 +37,4 @@ Algoithtm 🌐
 | • [Futurx](https://github.com/kyunghyunHan/Futurx) - Coin trading program built with Rust | • | • |
 | • [Ruquest](https://github.com/kyunghyunHan/Ruquest) - api  program built with Rust | • | • |
 | • [RERP](https://github.com/kyunghyunHan/ERP) - ERP program built with Rust | • | • |
+| • [rustclean](https://github.com/kyunghyunHan/ERP) - ERP program built with Rust | • | • |
