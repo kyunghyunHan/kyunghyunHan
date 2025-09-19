@@ -38,3 +38,4 @@ Algoithtm 🌐
 | • [RERP](https://github.com/kyunghyunHan/ERP) - ERP program built with Rust | • | • |
 | • [rustclean](https://github.com/kyunghyunHan/ERP) - ERP program built with Rust | • | • |
 | • [Constella](https://github.com/kyunghyunHan/ERP) - Database | • | • |
+| • [chrome-driver-rs](https://github.com/kyunghyunHan/chrome-driver-rs) - chrome-driver | • | • |
