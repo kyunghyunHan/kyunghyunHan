@@ -31,7 +31,7 @@ Algoithtm 🌐
 | **Rust** | **Blockchain** | **JS** |
 | -------- | ------ | ------ |
 | • [deep_quokka]() - A deepleaning | • [BlockChain](https://github.com/kyunghyunHan/blockchain) - Blockchain with Go | NftMarketPlace |
-| • [perth](https://perthisland.com/) - A Perth Korean community site created using leptos. | • | • |
+| • [PerthLand](https://perthisland.com/) - A Perth Korean community site created using leptos. | • | • |
 | • [korea_investment_rs ](https://github.com/kyunghyunHan/korea_investment_rs) - korea_investment_rs is a Rust library that allows easy use of Korea Investment & Securities' Open Trading API. | • | • |
 | • [Asterism](https://github.com/kyunghyunHan/Futurx) - Coin trading program built with Rust | • | • |
 | • [Ruquest](https://github.com/kyunghyunHan/Ruquest) - api  program built with Rust | • | • |
@@ -39,5 +39,6 @@ Algoithtm 🌐
 | • [rustclean](https://github.com/kyunghyunHan/ERP) - ERP program built with Rust | • | • |
 | • [Constella](https://github.com/kyunghyunHan/ERP) - Database | • | • |
 | • [chrome-driver-rs](https://github.com/kyunghyunHan/chrome-driver-rs) - chrome-driver | • | • |
+  
 
 
