@@ -35,7 +35,7 @@ Algoithtm 🌐
 | • [Ruquest](https://github.com/kyunghyunHan/Ruquest) - api  program built with Rust | • | • |
 | • [RERP](https://github.com/kyunghyunHan/ERP) - ERP program built with Rust | • | • |
 | • [rustclean](https://github.com/kyunghyunHan/ERP) - ERP program built with Rust | • | • |
-| • [Constella](https://github.com/kyunghyunHan/ERP) - Database | • | • |
+| • [Constella](https://github.com/kyunghyunHan/Constella) - Database | • | • |
 | • [chrome-driver-rs](https://github.com/kyunghyunHan/chrome-driver-rs) - chrome-driver | • | • |
   
 
