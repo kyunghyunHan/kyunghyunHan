@@ -9,7 +9,7 @@
 
 🐁 I am currently in Melbourne.
 
-I study quantitative finance 
+🧑‍🎓I study quantitative finance 
 
 <br>
 <br>
